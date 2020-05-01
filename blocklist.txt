@@ -1,3 +1,4 @@
+# Ads & Analytics
 norton360.error-fixed.com
 tenkinvia.site
 jogdosoaf.com
@@ -11,3 +12,9 @@ stats.privacytools.io
 analytics-gooal.com
 selfadserver.com
 ewitsorrgm.com
+# Scams/Phishing
+app.rbxadder.com
+rbx.gg
+grandmods.com
+gainblox.com
+netflixsupport0422.info
