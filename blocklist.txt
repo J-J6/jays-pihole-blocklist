@@ -12,6 +12,7 @@ stats.privacytools.io
 analytics-gooal.com
 selfadserver.com
 ewitsorrgm.com
+
 # Scams/Phishing
 app.rbxadder.com
 rbx.gg
@@ -30,6 +31,15 @@ locked1.com
 www.freev-bucks.org
 freev-bucks.org
 vbucksgenapp.us
+dinim.info
+fortseason2.com
+www.evacommuniceert.nl
+evacommuniceert.nl
+fortnite-generator-vbucks.com
+www.getfreevbucks.net
+getfreevbucks.net
+fortnitegenerator.com
+
 # Telemetry
 nexusrules.officeapps.live.com
 wpc.v0cdn.net
