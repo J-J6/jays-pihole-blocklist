@@ -146,6 +146,16 @@ www.tv-streaming.club
 www.vbucks.app
 www.withoutverification.com
 yourvbucks.com
+swrnotificationsoshmobile.webnode.ro
+kdhdrer1.weebly.com
+www.amierixcsess.com
+amierixcsess.com
+outlooz.webeden.co.uk
+vww.online.scotiabank.6scotia.com
+039w.us-south.cf.appdomain.cloud
+www.theblacktie-service.com
+theblacktie-service.com
+madhuramstores.com
 
 # Telemetry
 cs11.wpc.v0cdn.net
@@ -153,3 +163,9 @@ iriscoremetadataprod.blob.core.windows.net
 nexusrules.officeapps.live.com
 v10.events.data.microsoft.com
 wpc.v0cdn.net
+
+# Malware
+218711.com
+
+# Spam
+zt.tim-taxi.com
