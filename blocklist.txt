@@ -12,6 +12,7 @@ selfadserver.com
 stats.privacytools.io
 tenkinvia.site
 xyzzyxxx.xyz
+app-analytics-v2.snapchat.com
 
 # Scams/Phishing
 00pichs.uk.com
